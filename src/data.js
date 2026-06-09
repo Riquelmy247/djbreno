@@ -24,7 +24,7 @@ export const siteData = {
       "Performance musical, leitura de pista e presença profissional para casamentos, aniversários e eventos corporativos.",
     ctaPrimary: "Solicitar orçamento",
     ctaSecondary: "Ver Instagram",
-    backgroundImage: "/foto1.jpg",
+    backgroundImage: "./foto1.jpg",
     highlights: [
       "Casamentos",
       "Aniversários",
@@ -59,9 +59,9 @@ export const siteData = {
       "Breno atua em eventos sociais e corporativos com repertório estratégico, leitura de público e conduções que respeitam a energia de cada momento da festa.",
     tagline:
       "Uma apresentação pensada para criar atmosfera, manter a pista viva e entregar profissionalismo do início ao fim.",
-    imageSrc: "/foto1.jpg",
+    imageSrc: "./foto1.jpg",
     imageAlt: "DJ Breno em apresentação",
-    note: "Para usar a foto real, basta adicionar o arquivo em public/foto1.jpg.",
+    note: "Para usar a foto real, basta adicionar o arquivo em ./foto1.jpg.",
   },
   services: {
     title: "Serviços",
